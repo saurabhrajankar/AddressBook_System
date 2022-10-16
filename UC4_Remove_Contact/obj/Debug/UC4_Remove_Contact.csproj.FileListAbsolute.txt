@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\bin\Debug\UC4_Reamove_Contact.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\bin\Debug\UC4_Reamove_Contact.exe
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\bin\Debug\UC4_Reamove_Contact.pdb
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\obj\Debug\UC4_Remove_Contact.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\obj\Debug\UC4_Remove_Contact.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\obj\Debug\UC4_Remove_Contact.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\obj\Debug\UC4_Reamove_Contact.exe
+C:\Users\Saurabh\OneDrive\Desktop\loops\Welcome_Address_Book\UC4_Reamove_Contact\obj\Debug\UC4_Reamove_Contact.pdb
