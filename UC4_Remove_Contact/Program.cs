@@ -39,18 +39,18 @@ namespace UC4_Remove_Contact
             contact.email = Console.ReadLine();
             People.Add(contact);
         }
-        public void Display()
+         public void Display()      //Display the details
         {
             foreach (var data in People)
             {
                 if (People.Contains(data))
-                Console.WriteLine("Name of person : " + data.firstName + " " + data.lastName);
-                Console.WriteLine("Address of person is : " + data.address);
-                Console.WriteLine("State :" + data.state);
-                Console.WriteLine("Zip :" + data.zipCode);
-                Console.WriteLine("Email of person : " + data.email);
-                Console.WriteLine("Phone Number of person : " + data.phoneNumber);
-                Console.WriteLine();
+                    Console.WriteLine("*************Contact Details****************");
+                Console.WriteLine($"Name of person : {data.firstName} {data.lastName}");
+                Console.WriteLine($"Address of person is : {data.address}");
+                Console.WriteLine($"State : {data.state}");
+                Console.WriteLine($"Zip : {data.zipCode}");
+                Console.WriteLine($"Email of person : {data.email}");
+                Console.WriteLine($"Phone Number of person : {data.phoneNumber}");
             }
         }
         public void RemoveContact()
