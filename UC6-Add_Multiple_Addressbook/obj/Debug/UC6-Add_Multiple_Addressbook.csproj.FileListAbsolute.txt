@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\obj\Debug\UC6-Add_Multiple_Addressbook.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\obj\Debug\UC6-Add_Multiple_Addressbook.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\obj\Debug\UC6-Add_Multiple_Addressbook.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\bin\Debug\UC6-Add_Multiple_Addressbook.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\bin\Debug\UC6-Add_Multiple_Addressbook.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\bin\Debug\UC6-Add_Multiple_Addressbook.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\obj\Debug\UC6-Add_Multiple_Addressbook.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC6-Add_Multiple_Addressbook\obj\Debug\UC6-Add_Multiple_Addressbook.pdb
