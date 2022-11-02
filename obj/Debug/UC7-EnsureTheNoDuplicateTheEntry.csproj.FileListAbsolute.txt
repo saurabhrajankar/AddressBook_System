@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\bin\Debug\UC7-EnsureTheNoDuplicateTheEntry.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\bin\Debug\UC7-EnsureTheNoDuplicateTheEntry.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\bin\Debug\UC7-EnsureTheNoDuplicateTheEntry.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\obj\Debug\UC7-EnsureTheNoDuplicateTheEntry.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\obj\Debug\UC7-EnsureTheNoDuplicateTheEntry.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\obj\Debug\UC7-EnsureTheNoDuplicateTheEntry.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\obj\Debug\UC7-EnsureTheNoDuplicateTheEntry.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Welcome_Address_Book\UC7-EnsureTheNoDuplicateTheEntry\obj\Debug\UC7-EnsureTheNoDuplicateTheEntry.pdb
