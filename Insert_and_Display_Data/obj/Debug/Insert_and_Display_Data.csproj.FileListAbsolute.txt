@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\bin\Debug\Insert_and_Display_Data.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\bin\Debug\Insert_and_Display_Data.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\bin\Debug\Insert_and_Display_Data.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\obj\Debug\Insert_and_Display_Data.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\obj\Debug\Insert_and_Display_Data.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\obj\Debug\Insert_and_Display_Data.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\obj\Debug\Insert_and_Display_Data.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_and_Display_Data\obj\Debug\Insert_and_Display_Data.pdb
