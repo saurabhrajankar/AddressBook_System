@@ -1,0 +1,11 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\bin\Debug\Insert_And_Display_JsonFile.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\bin\Debug\Insert_And_Display_JsonFile.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\bin\Debug\Insert_And_Display_JsonFile.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.csproj.CopyComplete
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Insert_and_Display_Data\Insert_And_Display_JsonFile\obj\Debug\Insert_And_Display_JsonFile.pdb
